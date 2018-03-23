@@ -1,0 +1,10 @@
+{
+    "presets": ["react-app"],
+    "sourceMaps": true,
+    "plugins": [
+        "transform-decorators-legacy"
+    ],
+    "env": {
+        "production": {}
+    }
+}
